@@ -1,2 +1,4 @@
 # wc22-data-analysis
-Nesse projeto, a ideia, foi verificar a relação entre Posse de Bola e vitória, durante os jogos da Copa do Mundo de 2022
+Nesse projeto, a ideia, foi verificar a relação entre Posse de Bola e vitória, durante os jogos da Copa do Mundo de 2022.
+
+Para o projeto foi utilizado python, para fazer o tratamento e modelagem dos dados e Power BI, para modelar os gráficos.
