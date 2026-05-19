@@ -1,4 +1,5 @@
 Copa do Mundo 2022: Análise de Posse de Bola e Eficiência
+
 Sobre o Projeto
 
 Este projeto de análise de dados investiga a correlação entre o tempo de posse de bola e o resultado das partidas na Copa do Mundo FIFA Catar 2022. O objetivo é testar, com base em dados oficiais, a premissa tática de que o controle territorial garante a vitória no futebol moderno.
@@ -28,7 +29,7 @@ Considerando os 62 jogos do torneio em que houve um domínio de posse de bola (a
 
     O cruzamento de dados de posse versus gols marcados expõe casos de alta ineficiência. A principal anomalia estatística da competição foi a vitória do Japão por 2 a 1 sobre a Espanha, onde a seleção japonesa garantiu o resultado com apenas 18% de posse de bola.
 
-Previews do Dashboard
+
 
 
 
